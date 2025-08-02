@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #000000;
+  min-height: 100vh;
+  margin: 0;
+}
+.continer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+input{
+    width: 7%;
+    height: 7%;
+    display: block;
+    flex-wrap: wrap;
+}
